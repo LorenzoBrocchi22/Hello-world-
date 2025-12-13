@@ -3,3 +3,5 @@ Sono nel branch funzionalità 1 e ho aggiunto questa riga
 
 Ho aggiunto una riga in locale nel branch Funzionalità 1
 Modifica da github
+
+Aggiunto da locale
